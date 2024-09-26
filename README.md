@@ -13,7 +13,7 @@ Getting Started
 Installation
 To run the app, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/bmi-calculator-flutter.git
+Clone the repository: git clone [https://github.com/your-username/bmi-calculator-flutter.git](https://github.com/aniketrajkuntwar/bmi_calculator)
 Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
 Run the app on an emulator or physical device using flutter run
 Usage
